@@ -31,7 +31,7 @@
  <br/>
 
 ## :book: Current overview
-- 🌱 I’m currently learning - Nex.js
+- 🌱 I’m currently learning - Next.js
 - 👯 I’m looking to collaborate on - Open source projects
 - 📫 How to reach me: rintiaislam110@gmail.com
 
