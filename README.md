@@ -18,9 +18,10 @@
 <img height="150" src="https://raw.githubusercontent.com/rintia/rintia/main/images/React.png"/>
 
 <img height="150" src="https://raw.githubusercontent.com/rintia/rintia/main/images/ReactRouterDom.png"/>
-<img height="150" src="https://raw.githubusercontent.com/rintia/rintia/main/images/Firebase.png"/>
+
 </p>
 <p align="center">
+<img height="150" src="https://raw.githubusercontent.com/rintia/rintia/main/images/Firebase.png"/>
 <img height="150" src="https://raw.githubusercontent.com/rintia/rintia/main/images/Tailwind.png"/>
 <img height="150" src="https://raw.githubusercontent.com/rintia/rintia/main/images/Express.png"/>
 <img height="150" src="https://raw.githubusercontent.com/rintia/rintia/main/images/MongoDB.png"/>
