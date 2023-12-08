@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<!--
-**rintia/rintia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :chart_with_upwards_trend: Current Stats
 
-Here are some ideas to get you started:
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=&theme=whatsapp-light2" />
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
