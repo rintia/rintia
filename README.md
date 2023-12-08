@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -7,12 +7,17 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=rintia&theme=modern-lilac" />
 </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ <br/>
+
+ ## :computer: Technologies that I know
+
+
+
+ <br/>
+
+## :book: Current overview
+- 🌱 I’m currently learning - Nex.js
+- 👯 I’m looking to collaborate on - Open source projects
+- 📫 How to reach me: rintiaislam110@gmail.com
+
 
