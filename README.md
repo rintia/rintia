@@ -6,7 +6,7 @@
 - :bulb: Projects I've worked in - Survey system, Online Shopping, Online job Place
 - 🌱 I’m currently learning - Next.js, materialUI, Mongoose
 - 📫 How to reach me: rintiaislam110@gmail.com
-## :chart_with_upwards_trend: Current Stats
+
 
 <br /> <br/> <br/>
 
@@ -31,7 +31,8 @@
 
 
  <br/><br/> <br/>
-
+ 
+## :chart_with_upwards_trend: Current Stats
  <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=rintia&theme=modern-lilac" />
 </p>
