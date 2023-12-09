@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com//rintia/rintia/main/images/banner.PNG" />
+
 <br/> <br/>
 ## :book: Current overview
 - ⚡ I'm most confident in - React, Tailwind, MongoDB
