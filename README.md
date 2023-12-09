@@ -1,5 +1,9 @@
 
-
+## :book: Current overview
+- ⚡ I'm most confident in - React, Tailwind, MongoDB
+- :bulb: Projects I've worked in - Survey system, Online Shopping, Online job Place
+- 🌱 I’m currently learning - Next.js
+- 📫 How to reach me: rintiaislam110@gmail.com
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
@@ -30,9 +34,6 @@
 
  <br/>
 
-## :book: Current overview
-- 🌱 I’m currently learning - Next.js
-- 👯 I’m looking to collaborate on - Open source projects
-- 📫 How to reach me: rintiaislam110@gmail.com
+
 
 
